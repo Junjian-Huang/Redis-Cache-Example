@@ -1,3 +1,3 @@
-# SignalR-Example
+# Redis Cache - Example
 
-this webapp is to show the SignalR is fit to our icos product or not.
+this webapp is to show Redis Cache in C#.
